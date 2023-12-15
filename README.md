@@ -5,6 +5,7 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 Use this hardhat version for debugging
 ```shell
 npm install --save-dev hardhat@^2.7.0
+npm install --save-dev @nomiclabs/hardhat-ethers ethers @nomiclabs/hardhat-waffle ethereum-waffle chai
 ```
 And use this solidity version in hardhat.config.js
 ```shell
